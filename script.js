@@ -1,4 +1,4 @@
-const OPENAI_API_KEY = "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";
+const OPENAI_API_KEY = "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";
 const OPENAI_API_URL = "https://api.openai.com/v1/chat/completions";
 
 // Valid options
